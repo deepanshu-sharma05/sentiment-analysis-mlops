@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+transformers
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+mlflow
+scikit-learn
+pandas
+numpy
+python-dotenv
+pytest
+httpx
